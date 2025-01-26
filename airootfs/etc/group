@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:konsk
+wheel:x:10:konsk
+uucp:x:14:konsk
+konsk:x:1000:

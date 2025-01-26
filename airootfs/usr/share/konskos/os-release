@@ -1,0 +1,13 @@
+NAME="KonskOS"
+PRETTY_NAME="KonskOS"
+ID=konskos
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://konsk-soft.ru"
+DOCUMENTATION_URL="https://wiki.archlinux.org/"
+SUPPORT_URL="https://bbs.archlinux.org/"
+BUG_REPORT_URL="https://konsk-soft.ru"
+LOGO=konsk
+IMAGE_ID=konsk
+IMAGE_VERSION=25.01
