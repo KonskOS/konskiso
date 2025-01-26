@@ -1,5 +1,2 @@
 # konskiso
-# konskiso
-# konskiso
-# konskiso
-# konskiso
+ISO image of konskOS arch-based
